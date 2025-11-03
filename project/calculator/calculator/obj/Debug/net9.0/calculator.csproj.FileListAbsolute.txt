@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\calculator\calculator\obj\Debug\net9.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\calculator\calculator\obj\Debug\net9.0\calculator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\calculator\calculator\obj\Debug\net9.0\calculator.AssemblyInfo.cs
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\calculator\calculator\obj\Debug\net9.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\calculator\calculator\obj\Debug\net9.0\calculator.sourcelink.json
