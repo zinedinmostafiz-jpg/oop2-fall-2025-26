@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\MorgageCalculator\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\MorgageCalculator\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\MorgageCalculator\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.AssemblyInfo.cs
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\MorgageCalculator\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Developer\oop2-fall-2025-26\project\MorgageCalculator\MorgageCalculator\obj\Debug\net9.0\MorgageCalculator.sourcelink.json
